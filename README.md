@@ -241,6 +241,6 @@ OK，我们说有html模板的情况，就是父组件会往子组件插模板�
 
 ### 关于作者
 
-[技术博客](https://cunzaizhuyi.github.io)  || [GitHub](https://github.com/cunzaizhuyi)  || [掘金主页](https://juejin.im/user/5934c9f5fe88c20061cc7058/posts)
+ [GitHub](https://github.com/cunzaizhuyi) 
 
 
